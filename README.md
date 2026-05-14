@@ -2,11 +2,14 @@
 ## Aim :
 To implement Opening and Closing using Python and OpenCV. 
 
-## Software Required Anaconda - 
+## Software Required Anaconda -
+```
 Python 3.7 
 OpenCV
+```
 
 ## Algorithm: 
+
 ```
 Step1: Import the necessary packages
 Step2: Create the Text using cv2.putText
@@ -14,8 +17,10 @@ Step3: Create the structuring element
 Step4: Use Opening operation
 Step5: Use Closing Operation
 ```
+
 ## Name: Oviya N
 ## Reg.No:212223040140
+
 ## Program:
 ```
 import cv2
@@ -48,7 +53,9 @@ plt.axis('off')
 ## Output:
 
 <img width="385" height="699" alt="image" src="https://github.com/user-attachments/assets/da926b8e-6cc4-4233-99d5-04a7bf498696" />
+
 <img width="456" height="367" alt="image" src="https://github.com/user-attachments/assets/f0928245-6991-4c37-91c1-5a8a1cd4e5cd" />
+
 <img width="460" height="360" alt="image" src="https://github.com/user-attachments/assets/35ff40d1-95ae-4f8e-9e4b-2bbb1a1703e6" />
 <img width="458" height="369" alt="image" src="https://github.com/user-attachments/assets/1ad9943e-3723-4731-9358-74965d916e16" />
 
